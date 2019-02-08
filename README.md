@@ -2,16 +2,16 @@
 
 This is a general library that I will youse for the future projects. It contains libft library (README for this library will be in separate file) and printf function with following conversions:
 
-diouxX with the following flags: hh, h, l and ll.
+1) diouxX with the following flags: hh, h, l and ll.
 
-csp with flag l
+2) csp with flag l
 
-flags #0-+ and space
+3) flags #0-+ and space
 
-minimum-field width
+4) minimum-field width
 
-precision
+5) precision
 
-b (for binary)
+6) b (for binary)
 
-f with flags l and L
+7) f with flags l and L
